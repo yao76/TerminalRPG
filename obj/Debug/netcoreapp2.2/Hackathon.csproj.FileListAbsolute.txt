@@ -1,0 +1,11 @@
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/bin/Debug/netcoreapp2.2/Hackathon.deps.json
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/bin/Debug/netcoreapp2.2/Hackathon.runtimeconfig.json
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/bin/Debug/netcoreapp2.2/Hackathon.runtimeconfig.dev.json
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/bin/Debug/netcoreapp2.2/Hackathon.dll
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/bin/Debug/netcoreapp2.2/Hackathon.pdb
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.csprojAssemblyReference.cache
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.csproj.CoreCompileInputs.cache
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.AssemblyInfoInputs.cache
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.AssemblyInfo.cs
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.dll
+/home/parker/Documents/Coding Dojo/C#/projects/Hackathon/obj/Debug/netcoreapp2.2/Hackathon.pdb
