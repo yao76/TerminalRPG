@@ -54,6 +54,7 @@ namespace Hackathon
 			display.drawRect(0,35,100,15,ConsoleColor.White);
 			display.clearRect(16,35,1,1,"╦");
 			display.clearRect(16,49,1,1,"╩");
+
 			display.drawText(4,37,"Attack",ConsoleColor.White);
 			display.drawText(4,39,"Skills",ConsoleColor.White);
 			display.drawText(4,41,"Inventory",ConsoleColor.White);
@@ -100,7 +101,7 @@ namespace Hackathon
 						gameState = "RightMenu";
 					}
 				} else if (gameState == "RightMenu") {
-					
+					Console.WriteLine("wut");
 				}
 
 				Console.ForegroundColor = ConsoleColor.White;
